@@ -233,11 +233,5 @@ public class Main {
 
         // ^[A-Za-z]\d[A-Za-z][ -]?\d[A-Za-z]\d$
 
-
-
-
-
-
-
     }
 }
